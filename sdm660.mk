@@ -40,6 +40,9 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+PRODUCT_BOARD_PLATFORM := sdm660
+PRODUCT_USES_QCOM_HARDWARE := true
+
 # Permissions
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/privapp-permissions-qti.xml:system/etc/permissions/privapp-permissions-qti.xml
