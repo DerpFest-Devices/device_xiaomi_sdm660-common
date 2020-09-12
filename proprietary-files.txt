@@ -420,7 +420,7 @@ vendor/lib64/libqcmaputils.so|eacd5bec984bae24bda1f041975357b2d72edfc2
 vendor/lib64/libqcrilFramework.so|c38c004fb958c52f5269cc689e29d45d3283079b
 vendor/lib64/libqrtr.so|9addbb504885bb2a82e0b19e38077742bc48c10f
 vendor/lib64/libqsocket.so|dd4067d7a79565f11034277d4ef46698cd17c19b
-vendor/lib64/libril-qc-hal-qmi.so|0382e7557d045499421b249b27af34c771ea2e1e
+vendor/lib64/libril-qc-hal-qmi.so|4d3460e620c9b1ed4237fa4839a903a5725d18ee
 vendor/lib64/libril-qc-ltedirectdisc.so|1bb5daeb65a48eb5dbac5db7f1fe8975fcb6be28
 vendor/lib64/libril-qc-radioconfig.so|c37def8f254404839a413918e94c4aab4d6de137
 vendor/lib64/libril-qcril-hook-oem.so|bc216efecb94b352b1d9be890bbcf5fc29e2f830
@@ -526,7 +526,7 @@ vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|6ebb85b5b65e36324d7b67dd71dab5d
 # Widevine - from jasmine
 vendor/bin/hw/android.hardware.drm@1.2-service.widevine|d896d8ccf3904718ac4ff1c22821252960b40f87
 vendor/etc/init/android.hardware.drm@1.2-service.widevine.rc|f206aecdd6843795f6448bb6d44d2244b3e48815
-vendor/lib64/libwvhidl.so|62e724d63fe9c0a9f28fa737398fe424f1585b87
+vendor/lib64/libwvhidl.so|26bc952a2141943b72907cd10a30b1bb7e843ba9
 
 # WiFi Display - from jasmine
 bin/wfdservice|d9cccfd6ca14a1d83117533296d6cac2c139c310
