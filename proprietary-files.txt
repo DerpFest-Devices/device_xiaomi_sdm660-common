@@ -143,7 +143,7 @@ vendor/lib64/vendor.qti.latency@2.0.so|0dbcc8ef00b0d30b6022622265f4d31b6be4bb68
 # DPM - from jasmine
 product/bin/dpmd|14cf15b5c68fc198ea226f2de9757e1639a4445d
 product/etc/dpm/dpm.conf|95e27da8c989e96c6faea6f0697bce11955b62a5
-product/etc/init/dpmd.rc|7f95195a89fddce06b93006a737701270e91f669
+product/etc/init/dpmd.rc|58bf60777d3003e750388b90bdb61614c6aad753
 product/etc/permissions/com.qti.dpmframework.xml|4613f8b8629d0b823e6aaab45d399ac30da06c09
 product/etc/permissions/dpmapi.xml|0991b3069308620cfcad53873e9f09af181b981d
 product/framework/com.qti.dpmframework.jar|e39a7e06af2d1e95a3724c19c36b8716277f53a1
