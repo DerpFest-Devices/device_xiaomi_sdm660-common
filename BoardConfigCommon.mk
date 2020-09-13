@@ -132,6 +132,7 @@ LOC_HIDL_VERSION := 3.0
 # HIDL
 DEVICE_FRAMEWORK_MANIFEST_FILE := $(COMMON_PATH)/configs/manifests/framework_manifest.xml
 DEVICE_MANIFEST_FILE := $(COMMON_PATH)/configs/manifests/manifest.xml
+DEVICE_MANIFEST_FILE += $(COMMON_PATH)/configs/manifests/gps/vendor.qti.gnss@3.0-service.xml
 DEVICE_MATRIX_FILE := $(COMMON_PATH)/configs/manifests/compatibility_matrix.xml
 
 # Init
