@@ -1,22 +1,22 @@
 [
   {
-    "repository": "android_device_xiaomi_extras",
+    "repository": "device_xiaomi_extras",
     "target_path": "device/xiaomi/extras"
   },
   {
-    "repository": "android_hardware_xiaomi",
+    "repository": "hardware_xiaomi",
     "target_path": "hardware/xiaomi"
   },
   {
-    "repository": "android_kernel_xiaomi_sdm660",
+    "repository": "kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660"
   },
   {
-    "repository": "android_vendor_xiaomi_sdm660-common",
+    "repository": "vendor_xiaomi_sdm660-common",
     "target_path": "vendor/xiaomi/sdm660-common"
   },
   {
-    "repository": "android_packages_apps_GCamGOPrebuilt",
+    "repository": "packages_apps_GCamGOPrebuilt",
     "target_path": "packages/apps/GCamGOPrebuilt"
   }
 ]

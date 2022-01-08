@@ -7,7 +7,7 @@
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-arrow
+    $(LOCAL_PATH)/overlay-derp
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
@@ -128,13 +128,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
 # Camera
-ifeq ($(ARROW_GAPPS), true)
 PRODUCT_PACKAGES += \
     GCamGOPrebuilt
-else
-PRODUCT_PACKAGES += \
-    Snap
-endif
 
 PRODUCT_PACKAGES += \
     android.frameworks.sensorservice@1.0.vendor \
