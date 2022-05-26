@@ -123,10 +123,6 @@ PRODUCT_PACKAGES += \
     libldacBT_bco \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
-# Camera
-PRODUCT_PACKAGES += \
-    GCamGOPrebuilt
-
 PRODUCT_PACKAGES += \
     android.frameworks.sensorservice@1.0.vendor \
     android.hardware.camera.device@3.5:64 \
